@@ -29,7 +29,7 @@
 
 ## Stat
 [![Comfort's GitHub stats](https://github-readme-stats.vercel.app/api?username=comfortsandrah&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thank+you+for+stopping+by!;Have+an+amazing+day."></h2>
 <!---
 comfortsandrah/comfortsandrah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
