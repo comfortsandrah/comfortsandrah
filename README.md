@@ -33,7 +33,7 @@
 
 | Category         | Skills                                        |
 |------------------|-----------------------------------------------|
-| Frontend         | React, NextJs, HTML, CSS                      |
+| Frontend         | React, NextJs, HTML, CSS ,Tailwindcss                     |
 | Mobile           | Flutter                                       |
 | Languages        | C++, Python, Java, JavaScript, TypeScript, Dart, VB |
 | Databases        | MySQL                                         |
