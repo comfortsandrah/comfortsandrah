@@ -30,27 +30,38 @@
 
 ## 🛠 Tech Stack  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-| Category         | Skills                                        |
-|------------------|-----------------------------------------------|
-| Frontend         | React, NextJs, HTML, CSS, Tailwindcss                     |
-| Mobile           | Flutter                                       |
-| Languages        | C++, Python, Java, JavaScript, TypeScript, Dart, VB |
-| Databases        | MySQL                                         |
-| DevOps           | Docker                                        |
-| Tools            | Git, Figma, Trello                                   |
 
-## Stat
-[![Comfort's GitHub stats](https://github-readme-stats.vercel.app/api?username=comfortsandrah&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+| Category         | Skills                                                   |
+|------------------|----------------------------------------------------------|
+| **Frontend**     | React, Next.js, HTML, CSS, TailwindCSS                   |
+| **Mobile**       | Flutter                                                  |
+| **Languages**    | C++, Python, Java, JavaScript, TypeScript, Dart, VB      |
+| **Databases**    | MySQL                                                    |
+| **DevOps**       | Docker                                                   |
+| **Tools**        | Git, Figma, Trello                                       |
 
 ## 🎓 Education
 - BSc in Computer Science
     +  🏛 Jomo Kenyatta University of Agriculture and Technology (JKUAT)
     +  📅 2022 – Present
-
 ## 📬 Get In Touch
 * 📞 Phone: +254 742360679
 * 📧 Email: comfortsandrah13@gmail.com
-* 🔗 LinkedIn: ![Sandrah Lewa][(https://www.linkedin.com/in/sandrah-comfort/)]
+* 🔗 LinkedIn: [Sandrah Lewa](https://www.linkedin.com/in/sandrah-comfort/)
+
+## Stat
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=comfortsandrah&show_icons=true&theme=tokyonight&locale=en&card_width=500" alt="comfortsandrah" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=comfortsandrah&theme=tokyonight&card_width=500" alt="comfortsandrah" />
+    </td>
+  </tr>
+</table>
+
 
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thank+you+for+stopping+by!;Have+a+nice+day."></h2>
 <!---
