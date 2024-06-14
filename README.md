@@ -1,10 +1,10 @@
 <h1>Hello 😜 I'm Sandrah Lewa</h1>
-
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)" alt="Welcome To My Github! Hope you Enjoy :)" />
 </p>
 
-## 👨‍💻 About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## 👩‍💻About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
 <table>
   <tr>
     <td>
