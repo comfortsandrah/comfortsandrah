@@ -16,6 +16,14 @@
     </td>
   </tr>
 </table>
+<p align="left">
+  <a href="https://github.com/comfortsandrah">
+    <img src="https://komarev.com/ghpvc/?username=comfortsandrah&color=red" alt="profile views" />
+  </a>
+  <a href="https://github.com/comfortsandrah?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/comfortsandrah?color=yellow&logo=github">
+  </a>
+</p>
 
 
 ## Currently working on
