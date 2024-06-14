@@ -9,10 +9,10 @@
     <td>
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczh5cXlwb2ltendzbGF6MnpkeGdrNXlhaGJ4bml3ZTJpODZ0NXhyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="200" alt="Coding gif" />
     </td>   
-   <td style="vertical-align: top; padding-left: 20px;">
-      <span style="font-size: 20px;">✨ Front-end developer with a passion for creating beautiful web experiences!</span><br>
-      <span style="font-size: 20px;">💻💖 Specializing in HTML, CSS, and JavaScript, I love bringing designs to life with clean code.</span><br>
-      <span style="font-size: 20px;">🌟 Let's collaborate on projects that inspire and empower! 🌸✨</span>
+ <td>
+       ✨ Front-end developer with a passion for creating beautiful web experiences!<br>
+      💻💖 Specializing in HTML, CSS, and JavaScript, I love bringing designs to life with clean code.<br>
+      🌟 Let's collaborate on projects that inspire and empower! 🌸✨
     </td>
   </tr>
 </table>
