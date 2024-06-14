@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)" alt="Welcome To My Github! Hope you Enjoy :)" />
 </p>
 
+## 👨‍💻 About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <table>
   <tr>
     <td>
@@ -25,12 +26,9 @@
   </a>
 </p>
 
-
 ## Currently working on
 
 ## 🛠 Tech Stack  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
-
 | Category         | Skills                                                   |
 |------------------|----------------------------------------------------------|
 | **Frontend**     | React, Next.js, HTML, CSS, TailwindCSS                   |
@@ -44,13 +42,13 @@
 - BSc in Computer Science
     +  🏛 Jomo Kenyatta University of Agriculture and Technology (JKUAT)
     +  📅 2022 – Present
+      
 ## 📬 Get In Touch
 * 📞 Phone: +254 742360679
 * 📧 Email: comfortsandrah13@gmail.com
 * 🔗 LinkedIn: [Sandrah Lewa](https://www.linkedin.com/in/sandrah-comfort/)
 
 ## Stat
-
 <table>
   <tr>
     <td>
@@ -61,7 +59,6 @@
     </td>
   </tr>
 </table>
-
 
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thank+you+for+stopping+by!;Have+a+nice+day."></h2>
 <!---
