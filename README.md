@@ -30,7 +30,7 @@
 ## 💻Tech Stack  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 | Category         | Skills                                                   |
 |------------------|----------------------------------------------------------|
-| **Frontend**     | React, Next.js, HTML, CSS, TailwindCSS                   |
+| **Frontend**     | React, Javascript, Next.js, HTML, CSS, TailwindCSS                   |
 | **Mobile**       | Flutter                                                  |
 | **Languages**    | C++, Python, Java, JavaScript, TypeScript, Dart, VB      |
 | **Databases**    | MySQL                                                    |
