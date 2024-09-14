@@ -10,9 +10,10 @@
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczh5cXlwb2ltendzbGF6MnpkeGdrNXlhaGJ4bml3ZTJpODZ0NXhyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="200" alt="Coding gif" />
     </td>   
  <td>
-       ✨ Front-end developer with a passion for creating beautiful web experiences!<br>
-      💻💖 Specializing in HTML, CSS, and JavaScript, I love bringing designs to life with clean code.<br>
-      🌟 Let's collaborate on projects that inspire and empower! 🌸✨
+      ✨ Front-end developer passionate about building engaging web experiences focusing on clean, efficient code. <br/> 
+💻💖 Specializing in HTML, CSS, JavaScript, and TypeScript, with React, Next.js, and Prisma expertise for full-stack development. <br/>  
+🚀 I bring designs to life and love solving complex challenges with intuitive solutions.  <br/> 
+🌍 Let’s collaborate on projects that inspire, empower, and make an impact! 🌸✨
     </td>
   </tr>
 </table>
