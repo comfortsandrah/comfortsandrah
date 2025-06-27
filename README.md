@@ -33,7 +33,7 @@
 |------------------|----------------------------------------------------------|
 | **Frontend**     | React, Javascript, Next.js, HTML, CSS, TailwindCSS                   |
 | **Mobile**       | Flutter                                                  |
-| **Languages**    | C++, Python, Java, JavaScript, TypeScript, Dart, VB      |
+| **Languages**    | C++, Python, Java, JavaScript, TypeScript      |
 | **Databases**    | MySQL                                                    |
 | **DevOps**       | Docker                                                   |
 | **Tools**        | Git, Figma, Trello                                       |
