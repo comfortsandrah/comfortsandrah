@@ -1,6 +1,9 @@
-<h1>Hello 😜 I'm Sandrah Lewa</h1>
+<h1>Hi, I'm Sandrah Lewa</h1>
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)" alt="Welcome To My Github! Hope you Enjoy :)" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?color=4F8CC9&lines=Software+Engineer.;Building+reliable+software.;Always+learning.+Always+building."
+    alt="Typing SVG"
+  />
 </p>
 
 ## 👩‍💻About me 
@@ -10,10 +13,10 @@
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczh5cXlwb2ltendzbGF6MnpkeGdrNXlhaGJ4bml3ZTJpODZ0NXhyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="200" alt="Coding gif" />
     </td>   
  <td>
-      ✨ Front-end developer passionate about building engaging web experiences focusing on clean, efficient code. <br/> 
-💻💖 Specializing in HTML, CSS, JavaScript, and TypeScript, with React, Next.js, and Prisma expertise for full-stack development. <br/>  
-🚀 I bring designs to life and love solving complex challenges with intuitive solutions.  <br/> 
-🌍 Let’s collaborate on projects that inspire, empower, and make an impact! 🌸✨
+- 💻 Software Engineer building reliable full-stack web and mobile applications.<br/>
+- 🚀 Passionate about solving real-world problems through clean, scalable software.<br/>
+- ⚙️ Interested in backend engineering, distributed systems, cloud technologies, and AI-powered applications.<br/>
+- 🌱 Currently learning Django, system design, and advanced Data Structures & Algorithms.
     </td>
   </tr>
 </table>
@@ -31,12 +34,12 @@
 ## 💻Tech Stack  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 | Category         | Skills                                                   |
 |------------------|----------------------------------------------------------|
-| **Frontend**     | React, Javascript, Next.js, HTML, CSS, TailwindCSS                   |
-| **Mobile**       | Flutter                                                  |
-| **Languages**    | C++, Python, Java, JavaScript, TypeScript      |
-| **Databases**    | MySQL                                                    |
+| **Frontend**     | React, Next.js, React Native, HTML5, CSS3, Tailwind CSS  |
+| **Backend**      | Express.js, REST APIs, Node.js                           |
+| **Languages**    | Python,  TypeScript,  JavaScript     |
+| **Databases**    | PostgreSQL                                               |
 | **DevOps**       | Docker                                                   |
-| **Tools**        | Git, Figma, Trello                                       |
+| **Tools**        | Git, Docker, VS Code, Cursor                             |
 
 ## 🎓 Education
 - BSc in Computer Science
