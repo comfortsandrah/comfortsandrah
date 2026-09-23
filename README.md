@@ -44,7 +44,7 @@
 ## 🎓 Education
 - BSc in Computer Science
     +  🏛 Jomo Kenyatta University of Agriculture and Technology (JKUAT)
-    +  📅 2022 – Present
+    +  📅 2022 – June 2026
       
 ## 📬 Get In Touch
 * 📞 Phone: +254 742360679
